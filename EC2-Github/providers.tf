@@ -20,9 +20,9 @@ provider "aws" {
 }
 
 provider "github" {
-  token = "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"
+  token = "XXXXXXXXXXXXXXXXXX"
 }
 
 provider "gitlab" {
-    token = "glpat-Y6YQ-Yi83nx56uR9d9sy"
+    token = "XXXXXXXXXXXXXXXXXX"
 }
